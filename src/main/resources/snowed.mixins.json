@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "n643064.snowed.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "BiomeMixin",
+    "FlowerFeatureMixin",
+    "RandomPatchFeatureMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
